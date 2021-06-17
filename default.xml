@@ -69,14 +69,14 @@
   <project path="device/google/bonito" name="device_google_bonito" groups="device,bonito" remote="grapheneos" />
   <project path="device/google/bonito-kernel" name="device_google_bonito-kernel" groups="device,bonito" clone-depth="1" remote="grapheneos" />
   <project path="device/google/bonito-sepolicy" name="device_google_bonito-sepolicy" groups="device,bonito" remote="grapheneos" />
-  <project path="device/google/bramble" name="device_google_bramble" groups="device,bramble" remote="grapheneos" />
+  <project path="device/google/bramble" name="device_google_bramble" groups="device,bramble" remote="fml128" />
   <project path="device/google/bramble-kernel" name="device_google_bramble-kernel" groups="device,bramble" clone-depth="1" remote="grapheneos" />
   <project path="device/google/bramble-sepolicy" name="device/google/bramble-sepolicy" groups="device,bramble" />
   <project path="device/google/contexthub" name="device/google/contexthub" groups="device,pdk" />
   <project path="device/google/coral" name="device_google_coral" groups="device,coral,generic_fs" remote="grapheneos" />
   <project path="device/google/coral-kernel" name="device_google_coral-kernel" groups="device,coral,generic_fs" clone-depth="1" remote="grapheneos" />
   <project path="device/google/coral-sepolicy" name="device_google_coral-sepolicy" groups="device,coral,generic_fs" remote="grapheneos" />
-  <project path="device/google/redbull" name="device_google_redbull" groups="device,redbull" remote="grapheneos" />
+  <project path="device/google/redbull" name="device_google_redbull" groups="device,redbull" remote="fml128" />
   <project path="device/google/redbull-sepolicy" name="device_google_redbull-sepolicy" groups="device,redbull" remote="grapheneos" />
   <project path="device/google/redfin" name="device_google_redfin" groups="device,redfin" remote="grapheneos" />
   <project path="device/google/redfin-kernel" name="device_google_redfin-kernel" groups="device,redfin" clone-depth="1" remote="grapheneos" />
